@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = "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"
+API_KEY = "YOUR API KEY"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 def ask_ai(prompt):
@@ -28,3 +28,4 @@ def ask_ai(prompt):
 
     except Exception as e:
         return "I had trouble connecting to the AI service."
+

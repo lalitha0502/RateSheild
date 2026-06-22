@@ -440,6 +440,3 @@ Note that React Native is not supported at this time.
 
 If you are interested in other runtime environments, please open or upvote an issue on GitHub.
 
-## Contributing
-
-See [the contributing documentation](./CONTRIBUTING.md).
